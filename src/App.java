@@ -3,3 +3,12 @@ public class App {
 
     }
 }
+
+class Elain {
+    public int paino;
+
+    public void liiku()
+    {
+        System.out.println("Eläin liikkuu");
+    }
+}
